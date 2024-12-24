@@ -45,12 +45,12 @@
     <Reference Include="System.Xml" />
     <Reference Include="JumpKing">
       <Private>False</Private>
-      <HintPath>C:\steam\steamapps\common\Jump King\JumpKing.exe</HintPath>
+      <HintPath>C:\Program Files (x86)\steam\steamapps\common\Jump King\JumpKing.exe</HintPath>
     </Reference>
     <Reference Include="MonoGame.Framework, Version=3.7.1.189, Culture=neutral, processorArchitecture=MSIL">
       <Private>False</Private>
       <SpecificVersion>False</SpecificVersion>
-      <HintPath>C:\steam\steamapps\common\Jump King\MonoGame.Framework.dll</HintPath>
+      <HintPath>C:\Program Files (x86)\steam\steamapps\common\Jump King\MonoGame.Framework.dll</HintPath>
     </Reference>
   </ItemGroup>
   <ItemGroup>
